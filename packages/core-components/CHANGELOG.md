@@ -1,5 +1,15 @@
 # @backstage/core-components
 
+## 0.9.4-next.1
+
+### Patch Changes
+
+- 55f68c386a: Enabled select component to be enabled by keyboard
+- ba97b80421: Updated dependency `@types/react-syntax-highlighter` to `^15.0.0`.
+- Updated dependencies
+  - @backstage/config@1.0.1-next.0
+  - @backstage/core-plugin-api@1.0.2-next.1
+
 ## 0.9.4-next.0
 
 ### Patch Changes

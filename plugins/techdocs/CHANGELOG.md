@@ -1,5 +1,21 @@
 # @backstage/plugin-techdocs
 
+## 1.1.1-next.2
+
+### Patch Changes
+
+- 1af133f779: Updated dependency `event-source-polyfill` to `1.0.26`.
+- Updated dependencies
+  - @backstage/core-components@0.9.4-next.1
+  - @backstage/config@1.0.1-next.0
+  - @backstage/plugin-catalog-react@1.1.0-next.2
+  - @backstage/catalog-model@1.0.2-next.0
+  - @backstage/core-plugin-api@1.0.2-next.1
+  - @backstage/integration@1.2.0-next.1
+  - @backstage/integration-react@1.1.0-next.2
+  - @backstage/plugin-techdocs-react@0.1.1-next.2
+  - @backstage/plugin-search-react@0.2.0-next.2
+
 ## 1.1.1-next.1
 
 ### Patch Changes
